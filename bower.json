@@ -1,0 +1,24 @@
+{
+  "name": "svg3dtagcloud",
+  "version":"0.0.1",
+  "authors": [
+    "JinBin Li <joysmshr@126.com>"
+  ],
+  "description": "3D tag cloud",
+  "main": "dist/jquery.svg3dtagcloud.js",
+  "keywords": [
+    "svg3d"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
