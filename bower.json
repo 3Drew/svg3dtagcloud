@@ -5,7 +5,7 @@
     "JinBin Li <joysmshr@126.com>"
   ],
   "description": "3D tag cloud",
-  "main": ["dist/jquery.svg3dtagcloud.js","app.js"],
+  "main": "dist/jquery.svg3dtagcloud.js",
   "keywords": [
     "svg3d"
   ],
