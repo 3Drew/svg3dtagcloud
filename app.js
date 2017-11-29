@@ -726,8 +726,8 @@ var App = function() {
 	return {
 		init: function() {
 			// Init all core functions
-			//uiInit();
-			//uiLayout();
+			uiInit();
+			uiLayout();
 			uiDrawerSubnav();
 			uiCards();
 			uiForms();
@@ -806,7 +806,6 @@ var App = function() {
 }();
 
 // Initialize app when page loads
-/*jQuery( function() {
+jQuery( function() {
 	App.init();
 }); 
-*/
