@@ -806,6 +806,6 @@ var App = function() {
 }();
 
 // Initialize app when page loads
-jQuery( function() {
+/*jQuery( function() {
 	App.init();
-}); 
+}); */
